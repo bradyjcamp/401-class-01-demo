@@ -1,0 +1,26 @@
+{
+  "name": "class-01-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradyjcamp/class-01-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradyjcamp/class-01-demo/issues"
+  },
+  "homepage": "https://github.com/bradyjcamp/class-01-demo#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
